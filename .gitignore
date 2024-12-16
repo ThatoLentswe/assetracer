@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Firebase configuration
+firebase.json
+
+# Environment variables
+.env
+
+# Logs
+logs/
+
+# IDE specific files
+.idea/
+.vscode/
